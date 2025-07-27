@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data  analyst
 - 🌱 I’m currently learning MySql,python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me click my gmail
+- 📫 How to reach me click my gmail : rohan112.ravi@gmail.com
 
 <!---
 rohan739/rohan739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
